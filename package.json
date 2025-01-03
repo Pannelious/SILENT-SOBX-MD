@@ -8,7 +8,7 @@
     "stop": "pm2 stop SILENT-SOBX-MD",
     "restart": "pm2 restart SILENT-SOBX-MD"
   },
-  "dependencies": {
+"dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@black-king/temp-mail-gen": "1.0.1",
         "@blackamda/song_video_dl": "1.1.0",
@@ -65,6 +65,7 @@
         "google-image-sr": "^1.0.0",
         "google-it": "^1.6.4",
         "google-tts-api": "^2.0.2",
+        "human-readable":"0.2.1", 
         "imaginesdk": "latest",
         "imgur": "latest",
         "is-standard-emoji": "1.0.0",
@@ -88,6 +89,7 @@
         "qrcode-terminal": "^0.12.0",
         "qs": "^6.10.1",
         "remove-bg-node": "1.0.3",
+        "ruhend-scraper":"8.0.7", 
         "Sachibot-Spotifydl": "git+https://github.com/AlenVelocity/spotifydl-core.git",
         "scr-emoji": "0.0.3",
         "seedr": "^1.1.2",
@@ -119,6 +121,7 @@
         "yt-search": "2.12.1", 
         "@mrnima/tiktok-downloader":"1.0.0",
         "@mrnima/facebook-downloader":"1.0.0",
-        "mrnima-moviedl":"1.0.0"
+        "mrnima-moviedl":"1.0.0", 
+        "@dark-yasiya/yt-dl.js":"latest"
     }
 }
